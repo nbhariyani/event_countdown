@@ -65,7 +65,9 @@ h1 {
   display: none;
   transform: scale(2);
   padding-top: 200px;
-  color: #314465;
+  color: #ba2926;
+  /* #BA2926 red */
+  /* #314465 blue*/
   font-size: 20px;
   font-weight: bold;
 }
