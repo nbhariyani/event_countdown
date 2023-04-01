@@ -11,7 +11,7 @@ const currentYear = new Date().getFullYear();
 const newYearTime = new Date(`02-APR-2023 06:00:00`);
 
 // Set background year
-// year.innerText = currentYear;
+year.innerText = currentYear;
 
 // Update countdown time
 function updateCountdown() {
